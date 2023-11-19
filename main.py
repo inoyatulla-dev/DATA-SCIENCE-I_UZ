@@ -1,6 +1,7 @@
 
 #RAJABBOYEV INOYAT ISE-51U
-#1-masla
+
+
 from colorama import Fore, Back, Style, init
 init(autoreset=True)
 
