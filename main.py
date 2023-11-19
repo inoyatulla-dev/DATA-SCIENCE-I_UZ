@@ -71,7 +71,7 @@ import math
 #     total_narx = kg * narx_1kg
 #     print(Fore.YELLOW +f"{kg} kg olma narxi: {total_narx} so'm")
 
-# 4-masala
+# 4-masala-------------------------------------------------------------
 def kvadratni_hisobla(son):
     natija = son ** 2
     return natija
