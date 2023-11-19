@@ -46,7 +46,7 @@ import math
 # print(f"Almashtirilgan son: {almashgan_raqam}")
 #
 
-#3-misol----------------------------------------------------
+#3-masala----------------------------------------------------
 #
 # # Foydalanuvchidan uchta raqam kiritish
 # raqam1 = int(input("Birinchi raqamni kiriting: "))
@@ -63,7 +63,9 @@ import math
 #
 # # Natijani chiqarish
 # print(f"Uch raqamning orasidagi o'rtadagi raqam: {orta_raqam}")
-# 4-masala
+
+
+# 4-masala------------------------------------------------------
 # 1 kg olma narxi
 # narx_1kg = float(input("1 kg olma narxini kiriting: "))
 # 
@@ -72,7 +74,7 @@ import math
 #     total_narx = kg * narx_1kg
 #     print(Fore.YELLOW +f"{kg} kg olma narxi: {total_narx} so'm")
 
-# 4-masala-------------------------------------------------------------
+# 5-masala-------------------------------------------------------------
 def kvadratni_hisobla(son):
     natija = son ** 2
     return natija
